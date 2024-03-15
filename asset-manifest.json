@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ReactUserList/static/css/main.6bbf062f.css",
+    "main.js": "/ReactUserList/static/js/main.ebb4f673.js",
+    "static/media/success.svg": "/ReactUserList/static/media/success.4e08f49e92f6329b379e8b6827203a42.svg",
+    "index.html": "/ReactUserList/index.html",
+    "static/media/plus.svg": "/ReactUserList/static/media/plus.1931cf72fa3019e723886b136ffe0eee.svg",
+    "static/media/minus.svg": "/ReactUserList/static/media/minus.494f644a0286985edebe0fb3f79390a0.svg",
+    "main.6bbf062f.css.map": "/ReactUserList/static/css/main.6bbf062f.css.map",
+    "main.ebb4f673.js.map": "/ReactUserList/static/js/main.ebb4f673.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6bbf062f.css",
+    "static/js/main.ebb4f673.js"
+  ]
+}
